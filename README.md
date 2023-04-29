@@ -1,3 +1,3 @@
-# Amazon sales Sentiment Analysis
+# Amazon Best sellers analysis
 
-The goal of this repositorie is to create a sentiment analysis of amazon sales.
+The goal of this repositorie is to create a classification analysis of amazon sales.
